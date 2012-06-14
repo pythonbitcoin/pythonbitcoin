@@ -7,6 +7,7 @@
 # I grant any entity the right to use this work for any purpose, without any
 # conditions, unless such conditions are required by law.
 
+
 from hashlib import sha256, new as hashnew
 from time import time, gmtime, strftime
 from binascii import b2a_hex as tohex, a2b_hex as unhex

@@ -7,6 +7,7 @@
 # I grant any entity the right to use this work for any purpose, without any
 # conditions, unless such conditions are required by law.
 
+
 from tools import *
 
 _p = 0xFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFEFFFFFC2FL
