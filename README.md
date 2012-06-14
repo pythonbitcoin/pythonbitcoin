@@ -1,4 +1,0 @@
-pythonbitcoin
-=============
-
-python bitcoin
